@@ -1,0 +1,7 @@
+[18004:10980:0619/151445.301:WARNING:chrome_main_delegate.cc(593)] This is Chrome version 114.0.5735.134 (not a warning)
+[18004:10980:0619/151445.317:WARNING:chrome_command_line_pref_store.cc(121)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[18004:10980:0619/151445.317:WARNING:chrome_command_line_pref_store.cc(121)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[18004:10980:0619/151445.366:INFO:chrome_browser_cloud_management_controller.cc(167)] Starting CBCM Controller Initialization
+[18004:10980:0619/151445.366:INFO:chrome_browser_cloud_management_controller.cc(195)] No machine level policy manager exists.
+[18004:10980:0619/151445.372:WARNING:chrome_command_line_pref_store.cc(121)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[18004:10980:0619/151446.403:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
