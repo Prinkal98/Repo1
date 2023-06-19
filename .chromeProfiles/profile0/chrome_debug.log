@@ -1,0 +1,9 @@
+[1020:21496:0619/143411.997:WARNING:chrome_main_delegate.cc(593)] This is Chrome version 114.0.5735.134 (not a warning)
+[1020:21496:0619/143411.997:WARNING:chrome_command_line_pref_store.cc(121)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[1020:21496:0619/143412.014:WARNING:chrome_command_line_pref_store.cc(121)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[1020:21496:0619/143412.045:INFO:chrome_browser_cloud_management_controller.cc(167)] Starting CBCM Controller Initialization
+[1020:21496:0619/143412.045:INFO:chrome_browser_cloud_management_controller.cc(195)] No machine level policy manager exists.
+[1020:21496:0619/143412.045:WARNING:chrome_command_line_pref_store.cc(121)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[1020:21496:0619/143414.154:INFO:CONSOLE(73)] "ServiceWorker registration successful with scope:  https://www.flipkart.com/", source: https://www.flipkart.com/ (73)
+[1020:21496:0619/143414.458:INFO:CONSOLE(1)] "Flipkart ♥'s web", source: https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/js/app.chunk.13b47b74.js (1)
+[1020:21496:0619/143415.126:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
